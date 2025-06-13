@@ -1,4 +1,4 @@
-# 📄 Relatório Técnico: Implementação de Stack com Lista Ligada
+# Relatório Técnico: Implementação de Stack com Lista Ligada
 
 **Disciplina:** Programação em Sistemas Computacionais  
 **Ano Letivo:** 2024/2025  
