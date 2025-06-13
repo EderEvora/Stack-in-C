@@ -1,0 +1,3 @@
+C:/Users/OLIVIO/Desktop/Éder Programs/2ºA_2ºS/PSC/TP2 - stack/cmake-build-debug/CMakeFiles/TP2___stack.dir
+C:/Users/OLIVIO/Desktop/Éder Programs/2ºA_2ºS/PSC/TP2 - stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/OLIVIO/Desktop/Éder Programs/2ºA_2ºS/PSC/TP2 - stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
