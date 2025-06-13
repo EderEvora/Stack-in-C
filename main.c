@@ -83,7 +83,7 @@ int isEmpty(stackT *stack) {
     return stack->head == NULL;
 }
 
-// Fun\xC3\xA7\xC3\xA3o de exemplo para teste
+
 int main() {
     stackT *stack = NewStack();
     if (!stack) return 1;
